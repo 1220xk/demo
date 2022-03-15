@@ -8,7 +8,7 @@ Démo du 15/03 avec Le Grand Frédéric !
 
 ## pause café
 
-dans pas lgpts hein (faite)
+dans pas lgpts hein (faite) (sisi)
 
 ## roadmap
 
