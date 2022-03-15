@@ -12,9 +12,9 @@ dans pas lgpts hein (faite) (bon ok)
 
 ## roadmap
 
-- [ ] branches
-- [ ] pull requests
-- [ ] travail à plusieurs
+- [x] branches
+- [x] pull requests
+- [x] travail à plusieurs
 - [ ] ci/cd
 - [ ] autres
 
