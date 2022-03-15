@@ -8,4 +8,13 @@ Démo du 15/03 avec Le Grand Frédéric !
 
 ## pause café
 
-dans pas lgpts hein
+dans pas lgpts hein (faite)
+
+## roadmap
+
+- [ ] branches
+- [ ] pull requests
+- [ ] travail à plusieurs
+- [ ] ci/cd
+- [ ] autres
+
